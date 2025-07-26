@@ -1,0 +1,17 @@
+[
+  {
+    "id": "3d5d9ef2-a039-49ee-bc44-fbd1344dd626",
+    "description": "buy oranges",
+    "status": "done",
+    "createdAt": "2025-07-26T10:00:21.398Z",
+    "updatedAt": "2025-07-26T10:00:21.398Z",
+    "updateAt": "2025-07-26T10:05:36.951Z"
+  },
+  {
+    "id": "bd392c19-95d5-45e4-a9de-ead8a443cf3a",
+    "description": "Buy Groceries",
+    "status": "todo",
+    "createdAt": "2025-07-26",
+    "updatedAt": "2025-07-26"
+  }
+]
